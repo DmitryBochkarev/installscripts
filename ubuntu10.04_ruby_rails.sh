@@ -1,6 +1,6 @@
 #!/bin/bash
 RUBY_VERSION="1.9.3-p374"
-$TMP=/tmp
+TMP=/tmp
 
 sudo apt-get update
 sudo apt-get install -y curl checkinstall \
