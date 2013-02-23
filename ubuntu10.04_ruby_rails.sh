@@ -1,5 +1,5 @@
 #!/bin/bash
-RUBY_VERSION="1.9.3-p374"
+RUBY_VERSION="1.9.3-p385"
 TMP=/tmp
 
 sudo apt-get update
