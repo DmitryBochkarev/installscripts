@@ -1,5 +1,5 @@
 #!/bin/bash
-RUBY_VERSION=1.9.3-p385
+RUBY_VERSION=1.9.3-p392
 
 sudo apt-get update
 sudo apt-get install -y git-core curl
